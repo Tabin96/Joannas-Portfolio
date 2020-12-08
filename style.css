@@ -47,3 +47,13 @@ nav {
     margin-bottom: 16px;
     resize: vertical;
     }
+
+
+/*Styling på submit bar*/
+    input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    }

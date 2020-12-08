@@ -47,7 +47,11 @@ nav {
     margin-bottom: 16px;
     resize: vertical;
     }
-
+    
+/*Hoveren skifter farve på knappen*/    
+    input[type=submit]:hover {
+    background-color: #45a049;
+    }
 
 /*Styling på send knap*/
     input[type=submit] {

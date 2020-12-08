@@ -95,3 +95,8 @@ nav {
     padding: 25px;
     padding-right: 250px;
     }
+
+/*Størrelse på indsættelse af besked*/
+    .subject {
+    height: 170px;
+    }

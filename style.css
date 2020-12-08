@@ -88,3 +88,10 @@ nav {
     .socialemedier1 {
     padding-left: 325px; 
     }
+
+/* Styling af container sektionen */
+    .container {
+    border-radius: 8px;
+    padding: 25px;
+    padding-right: 250px;
+    }

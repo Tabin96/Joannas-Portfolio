@@ -63,9 +63,14 @@ nav {
     width: 270px;
     margin-left: 210px;
     }
-    
+
 /*Styling af titlen på kontakt-siden*/
     .container h2 {
     padding-left: 690px;
     padding-top:  80px;
+    }
+
+/*Mit navn under billedet*/
+    .titeljoanna {
+    padding-left: 250px;
     }

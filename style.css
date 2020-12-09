@@ -100,3 +100,11 @@ nav {
     .subject {
     height: 170px;
     }
+
+/* Laver kolonner der flytter sig efter hinanden */
+    .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+    }

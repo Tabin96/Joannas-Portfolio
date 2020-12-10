@@ -178,8 +178,7 @@
 
 /*Hvad jeg studerer til tekst under billeder*/
   .mintitel {
-  padding-left: 100px;
-  text-align: center;
+  display: none;
   }
 
 
@@ -188,7 +187,7 @@
     padding-left: 100px; 
     }
 
-    
+
     .socialemedier2 {
     padding-left: 100px; 
     }

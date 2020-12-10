@@ -164,13 +164,19 @@
     font-size: 2rem;
     }
   
-    
+
 /*Hvad jeg studerer til tekst under billeder*/
   .mintitel {
   padding-left: 100px;
   text-align: center;
   }
 
+
+/*Logos placering til de sociale medier*/
+    .socialemedier1 {
+    padding-left: 100px; 
+    }
+    
 
   
   

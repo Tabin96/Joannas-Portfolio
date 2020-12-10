@@ -31,6 +31,7 @@
 	color: rgb(158, 126, 126);
     }
 
+
 /* Styling på boksene i kontaktformular */
     input[type=text], select, textarea {
     width: 100%;
@@ -40,11 +41,13 @@
     margin-bottom: 16px;
     resize: vertical;
     }
+
     
 /*Hoveren skifter farve på knappen*/    
     input[type=submit]:hover {
     background-color:  #40af99;
     }
+
 
 /*Styling på "submit" knap*/
     input[type=submit] {
@@ -55,11 +58,13 @@
     cursor: pointer;
     }
 
+
 /*Billede af mig*/
     .kontaktbillede {
     width: 270px;
     margin-left: 210px;
     }
+
 
 /*Styling af titlen på kontakt-siden*/
     .container h2 {
@@ -72,15 +77,18 @@
     padding-left: 250px;
     }
 
+
 /*Hvad jeg studerer til tekst under billeder*/
     .mintitel {
     padding-left: 230px;
     }
 
+
 /*Logoernes placering til de sociale medier*/
     .socialemedier1 {
     padding-left: 325px; 
     }
+
 
 /* Styling af container sektionen */
     .container {
@@ -89,10 +97,12 @@
     padding-right: 250px;
     }
 
+
 /*Størrelse på indsættelse af besked*/
     .subject {
     height: 170px;
     }
+
 
 /*Gør så de kommer venstre efter hinanden */
     .column {
@@ -125,6 +135,7 @@
       width: 100%;
       margin-top: 0;
       }
+
 
 /*Navbaren skifter til nedadgående*/		
     .row, nav {   
@@ -165,7 +176,7 @@
     }
   
 
-/*Hvad jeg studerer til tekst under billeder*/
+    /*Hvad jeg studerer til tekst under billeder*/
   .mintitel {
   padding-left: 100px;
   text-align: center;
@@ -180,7 +191,7 @@
     .socialemedier2 {
     padding-left: 100px; 
     }
-    }
+}
 
   
   

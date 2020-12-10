@@ -157,13 +157,21 @@
     margin-left: 50px;
     }
   
-    
+
 /*Mit navn under billedet*/
     .titeljoanna {
     padding-left: 90px;
     font-size: 2rem;
     }
   
+    
+/*Hvad jeg studerer til tekst under billeder*/
+  .mintitel {
+  padding-left: 100px;
+  text-align: center;
+  }
+
+
   
   
     

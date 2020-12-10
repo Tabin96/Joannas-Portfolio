@@ -171,7 +171,7 @@
 
 /*Mit navn under billedet*/
     .titeljoanna {
-    padding-left: 90px;
+    padding-left: 80px;
     font-size: 2rem;
     }
   
@@ -184,12 +184,14 @@
 
 /*Logos placering til de sociale medier*/
     .socialemedier1 {
-    padding-left: 100px; 
+    display: none;
+    
     }
 
 
     .socialemedier2 {
-    padding-left: 100px; 
+    display: none;
+   
     }
 }
 

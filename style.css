@@ -102,7 +102,7 @@
     padding: 20px;
     }
 
-    
+
 /*Design af footeren*/
     footer {
     position: fixed;
@@ -114,3 +114,14 @@
     color: black;
     text-align: center;
     }
+
+    
+/* Responsiv til mobilversion*/
+
+@media screen and (max-width: 600px){
+
+    /*Design af "Submit" knappen*/
+      .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+      }

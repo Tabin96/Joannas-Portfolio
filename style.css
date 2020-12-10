@@ -136,3 +136,11 @@
     input[type=text], select, textarea {
     width: 500%;
     }
+
+
+/*Tekst over kontaktformular*/
+    .container h2 {
+    display: none;
+    }
+  
+  

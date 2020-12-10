@@ -5,9 +5,9 @@
     font-family: candara;
   }
 
-  body {
+    body {
     background-image: url(mønsteeer.jpg);
-  }
+    }
 
   /* Styling af menubar */
     nav {

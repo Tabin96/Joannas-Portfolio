@@ -130,3 +130,9 @@
     .row, nav {   
     flex-direction: column;
     }
+
+
+/* Størrelse af beskedområdet */
+    input[type=text], select, textarea {
+    width: 500%;
+    }

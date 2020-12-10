@@ -46,9 +46,9 @@
     background-color: #45a049;
     }
 
-/*Styling på send knap*/
+/*Styling på "submit" knap*/
     input[type=submit] {
-    background-color: #4CAF50;
+    background-color:#C8EFE0;
     color: white;
     padding: 12px 20px;
     border: none;
